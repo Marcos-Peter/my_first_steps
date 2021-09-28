@@ -6,8 +6,6 @@
 
         https://github.com/Marcos-Peter/my_first_steps.git  
 
-
-
 * 2:  
 
         mkdir my_first_steps  
@@ -17,8 +15,6 @@
         git branch -M main  
         git remote add origin https://github.com/Marcos-Peter/my_first_steps.git  
 
-
-
 * 3:  
   
   echo "Hello World! Esta é a primeira atividade de Git do Alpha Edtech - Turma 2" >> ola_mundo.txt  
@@ -26,8 +22,6 @@
   git commit -m "My first steps of Git with Alpha Edtech"  
   git status  
   git push -u origin main  
-  
-  
 
 * 4:  
   echo "Um texto qualquer a ser ignorado" >> serei_ignorado.txt  
