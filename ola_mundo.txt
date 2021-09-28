@@ -1,0 +1,1 @@
+Hello World! Esta é a primeira atividade de Git do Alpha Edtech - Turma 2
